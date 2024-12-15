@@ -1,0 +1,2 @@
+Sequential Execution Time: 8e-06 seconds
+OpenMP Execution Time: 3.4e-06 seconds

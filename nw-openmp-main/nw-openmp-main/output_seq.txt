@@ -1,0 +1,4 @@
+Aligned Sequence 1: 
+Aligned Sequence 2: 
+Score: 0
+Score Matrix:
